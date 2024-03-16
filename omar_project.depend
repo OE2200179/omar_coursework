@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1710364529 source:c:\users\asm\desktop\omar_project\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+
+1710619766 source:c:\users\mahmood\desktop\omar_coursework\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+
